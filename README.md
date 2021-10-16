@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mcwilson024
+- 👋 Hi, I’m Maurice W.
 - 👀 I’m interested in becoming a data analyst.
 - 🌱 I’m currently learning Python, Machine Learning, & SQL
 - 💞️ I’m looking to collaborate on any project making error corrections in Python or SQL code.

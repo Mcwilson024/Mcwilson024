@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maurice Wilson
+- 👋 Hello, I’m Maurice Wilson.
 -  :man_technologist:I have apirations of becoming a SOC Alalyst.
 - :books: I’m currently Comptia Security601+ Certification holder & refeshing skills in Coursecareers. 
 - ⌨️: I’m looking to getn into a Information Technology Position. In order to showcase my passion for the industry.
